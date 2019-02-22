@@ -25,7 +25,7 @@ Wi-Fi gratuito ai cittadini e turisti, utilizzando la banda internet
 disponibile sui propri collegamenti, senza impatto sui normali processi
 di lavoro.
 
-In Italia, l'attuale scenario scenario di partenza per l'adozione di
+In Italia, l'attuale scenario di partenza per l'adozione di
 soluzioni per la realizzazione ed erogazione del servizio di Wi-Fi
 gratuito, presenta le seguenti caratteristiche:
 
@@ -51,7 +51,7 @@ Organizzazione del documento
 
 Il presente documento è così strutturato:
 
--  Cap.1 "Cosa è il Wi-Fi": panoramica sugli standard comunemente usati,
+-  Cap.1 "Cosa è il Wi-Fi": panoramica sugli standard comunemente utilizzati,
    su una architettura tipica, sui criteri per garantire la sicurezza e
    prevenire potenziali attacchi cibernetici, le prestazioni
    obbligatorie in capo agli operatori di telecomunicazioni verso
